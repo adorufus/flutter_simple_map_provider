@@ -25,7 +25,7 @@ class _MyAppState extends State<MyApp> {
               height: 200,
               width: 200,
               child: MapProvider(
-                google_api_key: 'AIzaSyDjNpeyufzT81GAhQkCe85x83kxzfA7qbI' , ///your_api_key_here, otherwise this won\'t work
+                google_api_key: '' , ///your_api_key_here, otherwise this won\'t work
                 width: 200,
                 height: 200,
                 latitude: '15.79286',
