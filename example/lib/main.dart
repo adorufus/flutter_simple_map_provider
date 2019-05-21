@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
-
-import 'package:flutter/services.dart';
 import 'package:map_provider/map_provider.dart';
 
 void main() => runApp(MyApp());

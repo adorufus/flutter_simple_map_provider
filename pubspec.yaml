@@ -1,6 +1,6 @@
 name: map_provider
 description: A plugin for showing static map and calling Google Map application when clicked
-version: 1.0.0
+version: 1.0.1
 author: Reingalrt(Oktaviano Fahdi) <adorufus@gmail.com>
 homepage: https://gitlab.com/Reingalrt
 
